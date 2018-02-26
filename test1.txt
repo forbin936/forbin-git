@@ -1,1 +1,2 @@
-git test a test1.txt
+git test a test1(delete .txt)
+add a line;
